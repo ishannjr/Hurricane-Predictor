@@ -1,4 +1,3 @@
-# Hurricane-Predictor
 
 # Hurricane Predictor - United States
 
