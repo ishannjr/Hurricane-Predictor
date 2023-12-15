@@ -20,3 +20,11 @@ Before running the Google Colab notebook, make sure to upload the required data 
 2. Open the [Google Colab notebook](hurricane_predictor.ipynb).
 
 3. Navigate to the code cell where data uploading is handled.
+
+![Screenshot (32)](https://github.com/ishannjr/Hurricane-Predictor/assets/87802247/3667f47f-3990-45bd-84ab-90c56c8f1731)
+
+![Screenshot (33)](https://github.com/ishannjr/Hurricane-Predictor/assets/87802247/18d82f60-dd6e-4ec9-ba9f-756920ec8d48)
+
+![Screenshot (34)](https://github.com/ishannjr/Hurricane-Predictor/assets/87802247/3c66aa79-4cc4-44f4-9a1c-2418947f4080)
+
+![Screenshot (35)](https://github.com/ishannjr/Hurricane-Predictor/assets/87802247/efd4c953-7b78-474f-acb6-850bf54470b4)
